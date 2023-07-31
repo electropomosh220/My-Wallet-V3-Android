@@ -3,7 +3,6 @@ package info.blockchain.wallet.ethereum
 object EthUrls {
     // Base endpoint for all ETH operations
     private const val ETH = "eth"
-
     // Base endpoint for v2 ETH operations
     private const val ETHV2 = "v2/eth"
 
